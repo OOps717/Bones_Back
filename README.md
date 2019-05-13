@@ -15,6 +15,7 @@ Read the scripts to better understanding of working of some animations, settings
 ## Meta
 
 Emin Sultanov - eminsultanov.1999@gmail.com
+
 LinkedIn - https://www.linkedin.com/in/emin-sultanov-5b0324146
 
 https://github.com/OOps717    
